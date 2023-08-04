@@ -1,0 +1,12 @@
+{
+  "name": "front-end-mentor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.scss",
+  "scripts": {
+    "devserver": "live-server"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
